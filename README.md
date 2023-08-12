@@ -25,6 +25,13 @@ To use this application, you require a licenced eCognition version 10.1 and abov
   
 ![builder](https://github.com/lisahligono/OBIA_IP/assets/72496335/5cd29ffa-408f-4580-bc79-7aa81f47cdca)
 
+- Load the Sentinel-2 image in the folder
+- Now you can start using the user architecture: Click on the Multi-resolution Segmentation tab and set the scale parameter  by moving the slider. (The example below show segmentation with a segmentation of 500)
+- Once the segmentation is complete collect samples for all the classes in the 'Class Hierarchy' tab except 'mvi_mangrove'
+- Click on the Random Forest Algorithm tab and execute Random Forest --> the result will look like this
+- If you want to visualise the classification from the MVI, execute Calculate MVI
+
+  And there you have it, an interactive user architecture for mangrove mapping
 
 
 
