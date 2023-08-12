@@ -20,8 +20,8 @@ Step 3: Design an interactive architecture in eCognition that enable users to vi
 # Getting started with the User Architecture 
 To use this application, you require a licenced eCognition version 10.1 and above software.
 - Open the eCognition Developer interface
-- Click on Architect --> select 'Open Action Library' and select the folder with the action library. In this case the folder is named 'Ligono_architecture'
-- Next click again on Architect and select 'Load solution'--> select 'interfacev3.dax' and the analysis builder will load as seen below:
+- Click on *Architect* --> select '**Open Action Library**' and select the folder with the action library. In this case the folder is named '**Ligono_architecture**'
+- Next click again on *Architect* and select '**Load solution**'--> select '**interfacev3.dax**' and the analysis builder will load as seen below:
   
 ![builder](https://github.com/lisahligono/OBIA_IP/assets/72496335/5cd29ffa-408f-4580-bc79-7aa81f47cdca)
 
