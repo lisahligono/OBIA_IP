@@ -6,9 +6,15 @@ This project focuses on the analysis of mangrove coverage in Bintang Bolong, a b
 <h3> Research </h3>
 This work is an extension of my previous work (Source: Ligono, L. K. and Okolie, C. J.: INTEGRATED ANALYSIS OF MANGROVE CHANGES USING THE MANGROVE VEGETATION INDEX AND RANDOM FOREST CLASSIFICATION IN THE GAMBIA, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVI-M-2-2022, 153–157, https://doi.org/10.5194/isprs-archives-XLVI-M-2-2022-153-2022, 2022.) that I conducted in mapping mangroves using pixel-based classification.
 
-# Workflow
+## Workflow
 
 Step 1: a) Load Sentinel-2 image of the Bintang Bolong Estuary in eCognition b) Create a ruleset to automatically rename the bands of the Sentinel-2 image to Blue, Red, Green, NIR, SWIR.
+
 Step 2: Develop a ruleset in eCognition for conducting Random Forest classification and the the Mangrove Vegetation Index (MVI) using the relevant spectral bands.
+
 Step 3: Design an interactive architecture in eCognition that enable users to visualize either the MVI or the results of Random Forest classification. 
+
+# Results
+![cover_page](https://github.com/lisahligono/OBIA_IP/assets/72496335/5015a7af-5926-4622-955d-44cbec5c0538)
+
 
