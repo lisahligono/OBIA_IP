@@ -1,5 +1,5 @@
 # Application Development (Object-based Image Analysis)
-## Project Title: Interactive Visualization of Mangrove Cover Changes using eCognition's User Interactive Architecture
+## Documentation: Interactive Visualization of Mangrove Cover Changes using eCognition's User Interactive Architecture
 <h3>Introduction </h3>
 This project focuses on the analysis of mangrove coverage in Bintang Bolong, a beautiful and ecologically significant area located in The Gambia. Mangroves play a vital role in coastal ecosystems, providing various ecological and socioeconomic benefits. The Mangrove Vegetation Index (MVI) is an important tool for quantifying and monitoring mangrove coverage, and this project demonstrates the calculation and analysis of MVI using satellite imagery. Bintang Bolong is a stunning mangrove-rich estuary located in the southern part of The Gambia. It is known for its diverse mangrove species and serves as a crucial habitat for a wide range of flora and fauna. The region is not only ecologically significant but also of great importance to the local communities that rely on mangroves for sustenance and livelihoods.
 
