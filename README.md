@@ -17,8 +17,14 @@ Step 3: Design an interactive architecture in eCognition that enable users to vi
 # Results
 ![cover_page](https://github.com/lisahligono/OBIA_IP/assets/72496335/5015a7af-5926-4622-955d-44cbec5c0538)
 
-# User Architecture 
+# Getting started with the User Architecture 
+To use this application, you require a licenced eCognition version 10.1 and above software.
+- Open the eCognition Developer interface
+- 
 ![builder](https://github.com/lisahligono/OBIA_IP/assets/72496335/5cd29ffa-408f-4580-bc79-7aa81f47cdca)
+
+
+
 
 
 
