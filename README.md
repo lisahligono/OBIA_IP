@@ -43,7 +43,7 @@ To use this application, you require a licenced eCognition version 10.1 and abov
   ![mvi](https://github.com/lisahligono/OBIA_IP/assets/72496335/6b11f3bf-fed7-48e0-93cf-25e21493b5a3)
 
 
-  And there you have it, an interactive user architecture for mangrove mapping
+  And there you have it, an interactive user architecture for mangrove mapping 😁
 
 
 
