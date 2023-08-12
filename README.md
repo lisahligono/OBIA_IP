@@ -1,1 +1,1 @@
-# OBIA_IP
+# Application Development (Object-based Image Analysis)
